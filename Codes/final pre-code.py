@@ -40,6 +40,7 @@ print("\nFirst 5 rows of X:")
 print(np.round(X_0[:5], 2))
 print("\nFirst 5 labels y:")
 print(y_0[:5])
+#This line shows the first 5 binary response labels for the first 5 samples in Site 1's dataset.
 print("-" * 50, "\n")
 
 # ==========================================
@@ -62,7 +63,7 @@ for k in range(K):
 # ==============================================
 # 教学演示开关：注释掉下面这行使用真实Lasso结果
 # ==============================================
-print("\n⚠️  [Teaching Demo] Manually setting divergent supports to demonstrate noise conflict")
+print("\n Manually setting divergent supports to demonstrate noise conflict")
 local_supports = [{1, 2}, {0, 3}, {0, 1, 4}]
 print(f"\nLocal supports: {local_supports}")
 # ==============================================
