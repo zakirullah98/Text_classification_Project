@@ -1,0 +1,2 @@
+attempted,valid,failed,failure_rate,failure_stage,failure_reason
+10000,9814,186,0.0186,fedfdr_fit,External support is empty; second-stage Fed-FDR fit is undefined.

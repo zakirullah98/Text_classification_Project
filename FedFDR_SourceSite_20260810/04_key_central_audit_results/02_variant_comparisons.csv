@@ -1,0 +1,12 @@
+"metric","value"
+"pair exact-match rate A vs B (input-scale effect)",0.927450580802935
+"pair exact-match rate B vs C (central-rule effect)",0.595679641328714
+"pair mean Jaccard A vs B",0.966762011509311
+"pair mean Jaccard B vs C",0.876456374275816
+"final exact-match rate A vs B",0.927450580802935
+"final exact-match rate B vs C",0.59537395557367
+"final mean Jaccard A vs B",0.966751821984143
+"final mean Jaccard B vs C",0.875967277067746
+"paper final empty rate",0.0122274302017526
+"paper pair size >= 10 rate",0.000509476258406358
+"paper tau=0 boundary-infimum convention rate",0.58416547788873
